@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/color.jpg</file>
+        <file>image/document.jpg</file>
+        <file>image/error.jpg</file>
+        <file>image/font.jpg</file>
+        <file>image/guide.jpg</file>
+        <file>image/input.jpg</file>
+        <file>image/loading.jpg</file>
+        <file>image/message.jpg</file>
+        <file>image/add.jpg</file>
+        <file>image/open.jpg</file>
+    </qresource>
+</RCC>
